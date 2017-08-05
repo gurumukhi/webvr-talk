@@ -12,6 +12,17 @@
 - Onboard web developers into the 3D and VR world with easy-to-use tools
 - Prototype WebVR experiences faster
 
+
+------
+
+<!-- .slide: class="slide__questionsx" data-background="" style="" -->
+
+# About Me !  <!-- .element: style="" -->
+Ram Dayal Vaishnav 
+<div><img data-src="media/img/ram.jpg" style="width:250px"></div>
+- Senior Web Developer @ Arcesium
+- Mozilla Tech Speaker & Mozilla Rep
+
 ------
 
 # Virtual Reality
@@ -637,3 +648,14 @@ iStaging
 - Most work done on GitHub
 - Active community on Slack to share projects, interact, hang out, seek help
 - Featured projects on the `awesome-aframe` repository and *A Week of A-Frame* blog
+
+------
+
+# Thanks !  <!-- .element: style="" -->
+
+- Website : [aframe.io](https://aframe.io)
+- Demo : [gurumukhi.github.io/vr-ram](https://gurumukhi.github.io/vr-ram/)
+- Telegram : [telegram.me/MozillaVR](https://telegram.me/MozillaVR)
+- Slack : [aframevr-slack.herokuapp.com](https://aframevr-slack.herokuapp.com/)
+- Twitter : [@ram_gurumukhi](http://twitter.com/ram_gurumukhi), [@aframevr](http://twitter.com/aframevr), [@mozillavr](http://twitter.com/mozillavr)
+

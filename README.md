@@ -1,6 +1,6 @@
 # aframe-presentation for webvr-talk
 
-View slides at [gurumukhi.github.io/webvr-talk]](https://gurumukhi.github.io/webvr-talk)
+View slides at [gurumukhi.github.io/webvr-talk](https://gurumukhi.github.io/webvr-talk)
 
 ## Table of Contents
 
