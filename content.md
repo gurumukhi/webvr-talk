@@ -653,8 +653,10 @@ iStaging
 
 # Thanks !  <!-- .element: style="" -->
 
-- Website : [aframe.io](https://aframe.io)
 - Demo : [gurumukhi.github.io/vr-ram](https://gurumukhi.github.io/vr-ram/)
+- VR Tour : [gurumukhi.github.io/vr-sha](https://gurumukhi.github.io/vr-sha/)
+- Slides : [gurumukhi.github.io/webvr-talk](https://gurumukhi.github.io/webvr-talk/)
+- Website : [aframe.io](https://aframe.io)
 - Telegram : [telegram.me/MozillaVR](https://telegram.me/MozillaVR)
 - Slack : [aframevr-slack.herokuapp.com](https://aframevr-slack.herokuapp.com/)
 - Twitter : [@ram_gurumukhi](http://twitter.com/ram_gurumukhi), [@aframevr](http://twitter.com/aframevr), [@mozillavr](http://twitter.com/mozillavr)
