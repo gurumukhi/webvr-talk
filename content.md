@@ -12,7 +12,6 @@
 - Onboard web developers into the 3D and VR world with easy-to-use tools
 - Prototype WebVR experiences faster
 
-
 ------
 
 <!-- .slide: class="slide__questionsx" data-background="" style="" -->
@@ -245,7 +244,7 @@ A web framework for building virtual reality experiences
 
 ---
 
-## Hello World
+## A-Frame
 
 <!-- .slide: data-background="media/img/aframe.jpg" data-transition="slide-in none" -->
 
@@ -275,6 +274,17 @@ A web framework for building virtual reality experiences
 
 ## Hello World
 
+<!-- .slide: data-background="media/img/metaverse.jpg" -->
+
+<div class="stretch" data-aframe-scene="scenes/hello-world.html"></div>
+
+<!-- NOTES -->
+- aframe.io
+
+---
+
+## Hello World
+
 <!-- .slide: data-background="media/img/aframe.jpg" data-transition="fade-in slide-out" -->
 
 ```html
@@ -296,22 +306,6 @@ A web framework for building virtual reality experiences
 - Readable: HTML arguably most accessible language in computing
 - Encapsulated: copy-and-paste HTML anywhere else and still work, no state or variables
 - Quickly look at a live example...
-
----
-
-## Hello Metaverse
-
-<i>by Ada Rose Edwards (@lady_ada_king)</i>
-
-<!-- .slide: data-background="media/img/metaverse.jpg" -->
-
-<div class="stretch" data-aframe-scene="scenes/80s.html"></div>
-
-<!-- NOTES -->
-- A-Frame scene by Ada Rose Edwards running from inside my HTML slides
-- Works on desktop, Android, iOS, Samsung Gear VR, Oculus Rift, HTC Vive
-- Could open up the DOM Inspector to change values live
-- Since it's just HTML...
 
 ---
 
@@ -653,11 +647,9 @@ iStaging
 
 # Thanks !  <!-- .element: style="" -->
 
-- Demo : [gurumukhi.github.io/vr-ram](https://gurumukhi.github.io/vr-ram/)
-- VR Tour : [gurumukhi.github.io/vr-sha](https://gurumukhi.github.io/vr-sha/)
+- VR Website Demo : [gurumukhi.github.io/vr-ram](https://gurumukhi.github.io/vr-ram/)
+- SHA VR Tour : [gurumukhi.github.io/vr-sha](https://gurumukhi.github.io/vr-sha/)
 - Slides : [gurumukhi.github.io/webvr-talk](https://gurumukhi.github.io/webvr-talk/)
-- Website : [aframe.io](https://aframe.io)
 - Telegram : [telegram.me/MozillaVR](https://telegram.me/MozillaVR)
 - Slack : [aframevr-slack.herokuapp.com](https://aframevr-slack.herokuapp.com/)
-- Twitter : [@ram_gurumukhi](http://twitter.com/ram_gurumukhi), [@aframevr](http://twitter.com/aframevr), [@mozillavr](http://twitter.com/mozillavr)
-
+- Find me : [@ram_gurumukhi](http://twitter.com/ram_gurumukhi) | [vaishnav.rd@gmail.com](mailto:vaishnav.rd@gmail.com) 
