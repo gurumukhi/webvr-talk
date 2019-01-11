@@ -55,9 +55,6 @@ Ram Dayal Vaishnav
 
 ---
 
-
----
-
 <div class="image-row">
   <div><img data-src="media/img/go.png"></div>
   <div><img data-src="media/img/quest.png"></div>
