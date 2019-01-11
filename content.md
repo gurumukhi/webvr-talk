@@ -55,6 +55,19 @@ Ram Dayal Vaishnav
 
 ---
 
+
+---
+
+<div class="image-row">
+  <div><img data-src="media/img/go.png"></div>
+  <div><img data-src="media/img/quest.png"></div>
+</div>
+
+<!-- NOTES -->
+- New headsets by oculus - Go & Quest
+
+---
+
 ## Friction of VR Ecosystems
 
 <div class="captioned-image-row">
